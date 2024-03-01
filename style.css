@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: "Expletus";
+    src: url("fonts/ExpletusSans-VariableFont_wght.ttf");
+}
+
+.text1 {
+    font-family: "Expletus";
+}
+
+#sortBar:hover{
+    cursor: pointer;
+}
